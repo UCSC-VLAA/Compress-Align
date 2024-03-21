@@ -11,6 +11,10 @@ This repo contains official implementation and dataset of our paper: [Compress &
 </p>
 </body>
 
+## News
+
+**[2024.3.22]** The code and data will be coming soon.
+
 ## Introduction
 
 The massive growth of image-text data through web crawling inherently presents the challenge of variability in data quality. This paper introduces a novel algorithm, rooted in human knowledge, to compress this vast corpus
@@ -20,7 +24,7 @@ Extensive experiments demonstrate that we are able to secure (or even improve) m
 
 ## Acknowledgement
 
-We are also very grateful that this work is supported by a gift from TPU Research Cloud (TRC) program, and Google Cloud Research Credits program.
+We are also very grateful that this work is supported by a gift from TPU Research Cloud (TRC) program and Google Cloud Research Credits program.
 
 ## Citation
 
