@@ -1,6 +1,11 @@
 # Compress-Align
 
-This repo contains official implementation and dataset of our paper: [Compress & Align: Curating Image-Text Data with Human Knowledge](https://arxiv.org/abs/2312.06726) .
+This repo contains official implementation and dataset of our paper: [Compress & Align: Curating Image-Text Data with Human Knowledge](https://arxiv.org/abs/2312.06726)
+
+<p align="center">
+  <img src="figs/method.png" width="1080">
+A diagram illustrating the three steps of our method to curating image-text data with human knowledge.
+</p>
 
 ## Introduction
 
