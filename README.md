@@ -23,7 +23,7 @@ of web-crawled image-text datasets to a compact and high-quality form. Our metho
 Extensive experiments demonstrate that we are able to secure (or even improve) model performance by compressing the image-text datasets up to ∼90%. An impressive example is that, by aggressively reducing the total training sample from 130M to 15.5M (e.g., ∼9× smaller), our BLIPB/16 models still consistently show superior performance compared with the full-size-dataset counterpart on image-text retrieval (Flickr30K, COCO) by ∼2.5% in Recall@1, and on image-captioning (Nocaps, COCO) by ∼10.0% in CIDEr and ∼2.7% in SPICE.
 
 <p align="center">
-  <img src="figs/result.png" width="400">
+  <img src="figs/result.png" width="450">
 </p>
 
 ## Acknowledgement
