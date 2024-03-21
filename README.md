@@ -4,7 +4,8 @@ This repo contains official implementation and dataset of our paper: [Compress &
 
 <p align="center">
   <img src="figs/method.png" width="800">
-A diagram illustrating the three steps of our method to curating image-text data with human knowledge.
+
+  A diagram illustrating the three steps of our method to curating image-text data with human knowledge.
 </p>
 
 ## Introduction
