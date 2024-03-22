@@ -1,7 +1,7 @@
 # Compress-Align
 
 <p align="center">
-   📃 <a href="https://arxiv.org/abs/2312.06726" target="_blank">Paper</a> • 🖼 <a href="https://huggingface.co/datasets/yusalei/COCO-HF" target="_blank">Dataset</a> <br>
+   📃 <a href="https://arxiv.org/abs/2312.06726" target="_blank">Paper</a> • 🖼 <a href="https://huggingface.co/datasets/yusalei/COCO-HF" target="_blank">Dataset</a> • 🤗 <a href="https://huggingface.co/yusalei/Compress-Align" target="_blank">HF Repo</a> <br>
 </p>
 
 **Compress & Align: Curating Image-Text Data with Human Knowledge**
