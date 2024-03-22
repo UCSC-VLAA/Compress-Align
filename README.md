@@ -6,17 +6,14 @@
 
 **Compress & Align: Curating Image-Text Data with Human Knowledge**
 
-Compress-Align is the first general-purpose image-to-text human preference reward model, which is trained on in total 10k pairs of expert comparisons, outperforming existing text-image scoring methods, such as CLIP-Score (by 30.3%) and BLIP-Score (by 33.5%), in terms of understanding human preference in alignment between image and texts.
+Compress-Align is the first general-purpose image-to-text human preference reward model, which is trained on in total 10k pairs of expert comparisons, eclipsing prevailing image-text scoring methods, such as CLIP-Score (by 30.3%) and BLIP-Score (by 33.5%), capturing the nuanced essence of human preference on image-text alignment.
 
+If you find `Compress-Align`'s open-source effort useful, please 🌟 us to encourage our following development!
 
-<body>
 <p align="center">
-  <img src="figs/method.png" width="800">
+  <img src="figs/method.png" width="700">
 </p>
-<p align="center">
-  A diagram illustrating the three steps of our method to curating image-text data with human knowledge.
-</p>
-</body>
+
 
 ## News
 
