@@ -4,8 +4,9 @@
    📃 <a href="https://arxiv.org/abs/2312.06726" target="_blank">Paper</a> • 🖼 <a href="https://huggingface.co/datasets/yusalei/COCO-HF" target="_blank">Dataset</a> <br>
 </p>
 
+**Compress & Align: Curating Image-Text Data with Human Knowledge**
 
-This repo contains official implementation and dataset of our paper: [Compress & Align: Curating Image-Text Data with Human Knowledge](https://arxiv.org/abs/2312.06726)
+
 
 <body>
 <p align="center">
